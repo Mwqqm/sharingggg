@@ -19,4 +19,4 @@ MooDY.on("guildMemberAdd", member => {
 **`) 
 }).catch(console.error)
 })
-MooDY.login(" "); // <= SharingBot token here !!
+MooDY.login("NTc5OTIxMTMwNzA2NTY3MjA3.XOJLxA.tgzEPPBdUZHOAg1znP8PCDZ-mHY"); // <= SharingBot token here !!
